@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "45b8536c0c769d26",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f8434a291d8a7b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85ed49d21bdadae4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6th sem/Software Engineering/Chapter-1 Basic Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d68eb71824ea38d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf468d009093dfc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "394d27c5a3f7464b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab934b7fc904f73f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d26c88c772a1747d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5110321044922
+  },
+  "right": {
+    "id": "36ca798be5ea7bb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "490c19bd955eb2bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb60e43233fa239c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6th sem/Software Engineering/Chapter-1 Basic Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d41f81e1bf46f25",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6th sem/Software Engineering/Chapter-1 Basic Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f62e3a691591af06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cbcb8f071c26ab9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6th sem/Software Engineering/Chapter-1 Basic Overview.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "85ed49d21bdadae4",
+  "lastOpenFiles": [
+    "6th sem/Software Engineering/Chapter-4 (Requirement analysis and Specifications.md",
+    "6th sem/Software Engineering/Chapter-5 (software design) 24b220fce97c42a49ded4df47c8ae72a.md",
+    "6th sem/Software Engineering/Chapter-1 Basic Overview.md",
+    "6th sem/Software Engineering/Welcome.md",
+    "6th sem/Advance Web Dev. Practicals/Practical-2/practical-2.png",
+    "6th sem/Beginning AndroidTM 4 Application Development.pdf",
+    "6th sem/3161605_Software Engineering.pdf",
+    "6th sem/Cryptography-and-network-security-principles-and-practice.pdf",
+    "6th sem/angularjs-in-action.epub_compress.pdf",
+    "Pasted image 20240511020121.png",
+    "Pasted image 20240511020037.png",
+    "Pasted image 20240511013432.png",
+    "Pasted image 20240511013428.png",
+    "Pasted image 20240511013324.png",
+    "Block cipher.md",
+    "Pasted image 20240511003200.png",
+    "Pasted image 20240511002909.png",
+    "Pasted image 20240511002841.png",
+    "Pasted image 20240510230732.png",
+    "Chapter - 1(Introduction and Finite Fields)/Intro..md",
+    "Chapter - 3 Symmetric Ciphers/Stream and block cipher.md",
+    "Pasted image 20240509200747.png.md",
+    "Excalidraw/Drawing 2024-04-14 14.34.47.excalidraw.md",
+    "Chapter - 4 Block Cipher Operation",
+    "Excalidraw/Drawing 2024-03-02 15.39.07.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-02 10.32.33.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-25 13.47.18.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-25 10.49.11.excalidraw.md",
+    "Untitled 2.md",
+    "Chapter - 1.md",
+    "Assignment - 1 and Assignment - 2.md",
+    "2024-02-24.md",
+    "Untitled 1.md",
+    "Chapter - 3 Symmetric Ciphers",
+    "Chapter-1.md",
+    "SRS.md",
+    "Excalidraw",
+    "Treasure hunt.md",
+    "General Aptitude.md",
+    "Chapter - 1(Introduction and Finite Fields)"
+  ]
+}

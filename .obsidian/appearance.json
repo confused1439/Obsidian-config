@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "baseFontSize": 17,
+  "theme": "obsidian",
+  "cssTheme": "Catppuccin",
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "textFontFamily": "Microsoft Sans Serif,Berlin Sans FB"
+}

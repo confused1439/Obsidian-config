@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiFile",
+      "LiBook",
+      "LiFolderSync",
+      "🟰",
+      "LiBlocks"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false,
+    "iconInTitlePosition": "above"
+  },
+  "Chapter - 1(Introduction and Finite Fields)": "LiFolder",
+  "Chapter - 1(Introduction and Finite Fields)/Intro..md": "LiFilePen",
+  "Chapter - 3 Symmetric Ciphers": "LiFolderSync",
+  "Chapter - 4 Block Cipher Operation": "LiBlocks",
+  "Block cipher.md": "LiFilePen",
+  "Chapter - 3 Symmetric Ciphers/Stream and block cipher.md": "LiFilePen",
+  "6th sem/3161605_Software Engineering.pdf": "LiBook",
+  "6th sem/angularjs-in-action.epub_compress.pdf": "LiBook",
+  "6th sem/Beginning AndroidTM 4 Application Development.pdf": "LiBook",
+  "6th sem/Cryptography-and-network-security-principles-and-practice.pdf": "LiBook",
+  "6th sem/Kevin Knight, Elaine Rich, B. Nair - Artificial Intelligence (2010, Tata McGraw-Hill Education Pvt. Ltd.) - libgen.lc.pdf": "LiBook",
+  "6th sem/Prac -3.SRS SE.pdf": "LiFile",
+  "6th sem/srs_example_2010_group2.pdf": "LiBook"
+}
